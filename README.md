@@ -23,7 +23,7 @@
 
 ## 🚀 Working
 
-<img src="ss\Revenue Chart.png" alt="Revenue Chart" width="1280"/>
+<img src="finance-analytic-dashboard\ss\Revenue Chart.png" alt="Revenue Chart" width="1280"/>
 
 ---
 
