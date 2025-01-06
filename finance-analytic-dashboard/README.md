@@ -60,26 +60,10 @@
 
 ---
 
-## 🗰 Project Structure
 
-```plaintext
-src/
-├── assets/           # Images, icons, etc.
-├── components/       # Reusable components
-│   ├── charts/       # Recharts components
-│   ├── layout/       # Layout and structure
-│   └── ui/           # UI-specific elements
-├── pages/            # Dashboard pages
-├── services/         # API services
-├── store/            # State management and React Query configs
-├── utils/            # Helper functions and constants
-```
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
